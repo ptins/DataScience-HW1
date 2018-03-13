@@ -4,7 +4,7 @@ This is the first assignment for my Data Science Class.
 
 ## Getting Started
 
-This project uses Python 3.
+This project uses Python 3.6.4.
 
 Clone this repo with the following command.
 
